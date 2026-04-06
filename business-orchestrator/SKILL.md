@@ -7,93 +7,102 @@ description: Use when someone asks for general business help, describes a proble
 
 ## Overview
 
-With 50+ skills available, this routes business problems to the right skill based on the symptom described. Match the situation below, then invoke the listed skill(s).
+Routes business problems to the right skill. The first question is always: **new business or existing business?**
 
-**Priority rule:** Use diagnostic skills before implementation skills. If something is broken and unclear why, start with `business-model-audit`.
+- **New business:** sequence matters — build in order (offer → avatar → leads → sales)
+- **Existing business:** entry point varies by symptom — diagnose first, then fix
 
 ---
 
-## Symptom → Skill
+## New Business
 
-### Need more customers / leads
+Building from scratch. Use these in order — skipping steps creates problems downstream.
+
+| Step | Question | Skill |
+|---|---|---|
+| 1 | What am I selling and to whom? | `hormozi-offer-design` or `grand-slam-offer-creation` |
+| 2 | Who is my ideal customer exactly? | `first-avatar` |
+| 3 | How do I get my first leads? | `lead-gen-channels` → specific channel skills below |
+| 4 | How do I run the sales conversation? | `sales-call-structure` → `sales-closing` |
+| 5 | How do I price it? | `mm-pricing-strategy` + `pricing-psychology` |
+| 6 | Want to validate before building? | `rapid-idea-testing` |
+
+**Getting first leads (Step 3 detail):**
+
+| Channel | Skill |
+|---|---|
+| People you already know | `warm-outreach` |
+| Cold prospects | `cold-outreach` |
+| Free content / audience building | `content-strategy` |
+| Free giveaway or lead magnet | `lead-magnet` |
+| Paid ads | `paid-ads` |
+
+**Building a software product instead:**
+
+| Step | Skill |
+|---|---|
+| Discover who to build for | `pm-user-research` |
+| Prioritize what to build | `pm-value-stack` |
+| Get users to activate and stay | `pm-retention` |
+| Measure what matters | `pm-data` |
+
+---
+
+## Existing Business Improvements
+
+Business is running. Something isn't working or you want more. Start with diagnosis if unclear.
+
+**Not sure what's wrong? Start here:**
+- `business-model-audit` — identifies which part of the model is broken
+- `mm-30-day-profit-test` — checks if the money model is actually profitable
+
+---
+
+### More customers / leads
 | Symptom | Skill |
 |---|---|
 | Don't know which channel to use | `lead-gen-channels` |
-| Need a free giveaway or lead magnet | `lead-magnet` |
-| Reaching existing contacts or past customers | `warm-outreach` |
-| Reaching cold prospects (never heard of you) | `cold-outreach` |
-| Building audience through content | `content-strategy` |
-| Running or starting paid ads | `paid-ads` |
 | Want customers to refer others | `referral-system` |
 | Want other businesses to send leads | `affiliate-program` |
+| Need a free lead magnet | `lead-magnet` |
+| Running or starting paid ads | `paid-ads` |
+| Building audience through content | `content-strategy` |
 
-### Ads aren't working
+### Ads not performing
 | Symptom | Skill |
 |---|---|
 | Ads get skipped / CTR is low | `hook-writing` |
-| Running out of creative / CAC rising | `goated-ads` |
-| Don't know which platform or how to allocate budget | `paid-ads` |
+| CAC rising / creative exhausted | `goated-ads` |
 | Profitable but can't scale | `ads-scaling` |
 | People don't recognize or trust the brand | `branding` |
-| Founder is the bottleneck for all ad content | `marketing-machine` |
+| Founder is the bottleneck for ad content | `marketing-machine` |
 
-### Need more money from existing customers
+### More money from existing customers
 | Symptom | Skill |
 |---|---|
-| Not sure which monetization lever to pull | `lifetime-value` |
-| Need cash fast from existing list | `fast-cash` |
+| Not sure which lever to pull | `lifetime-value` |
+| Need cash fast | `fast-cash` |
 | Want to raise prices | `price-raise` |
-| Want to add upsells, subscriptions, or new offer structures | `mm-selector` |
-| Want the full lever hierarchy (pricing → LTV → offer → avatar) | `value-multiplier` |
+| Want to add upsells, subscriptions, or new offer types | `mm-selector` |
+| Want the full strategic lever hierarchy | `value-multiplier` |
 
-### Losing customers / high churn
+### Losing customers
 | Symptom | Skill |
 |---|---|
-| High monthly churn in a service or subscription business | `customer-retention` |
+| High monthly churn (service or subscription) | `customer-retention` |
 | High churn in a software product | `pm-retention` |
-| Wrong-fit customers causing most of the problems | `first-avatar` |
+| Wrong-fit customers causing the most problems | `first-avatar` |
 
-### Offer isn't converting
+### Offer not converting
 | Symptom | Skill |
 |---|---|
-| Building or redesigning a core offer | `hormozi-offer-design` |
+| Redesigning or improving the core offer | `hormozi-offer-design` |
 | Reviewing an existing offer | `hormozi-offer-reviewer` |
-| Step-by-step grand slam offer process | `grand-slam-offer-creation` |
 | Pricing feels off | `mm-pricing-strategy` or `pricing-psychology` |
 
-### Sales process is broken
+### Sales process broken
 | Symptom | Skill |
 |---|---|
 | Leads opt in but don't show up to calls | `lead-nurture` |
 | Prospects stall or give vague objections | `sales-closing` |
-| Need scripts for specific objection types | `sales-objection-handler` |
-| Sales call flow and structure | `sales-call-structure` |
-
-### Don't know what's wrong
-| Symptom | Skill |
-|---|---|
-| General business diagnosis | `business-model-audit` |
-| Is the money model actually profitable? | `mm-30-day-profit-test` |
-| Not sure who the best customers are | `first-avatar` |
-| Want to test a new idea before building | `rapid-idea-testing` |
-
-### Building a software product
-| Symptom | Skill |
-|---|---|
-| User research / who to build for | `pm-user-research` |
-| Low activation or high churn | `pm-retention` |
-| Feature prioritization / roadmap | `pm-value-stack` |
-| Metrics and analytics decisions | `pm-data` |
-
----
-
-## Starting Points by Business Stage
-
-| Stage | Start here |
-|---|---|
-| Pre-revenue / building first offer | `hormozi-offer-design` → `lead-gen-channels` |
-| Has customers, wants more | `first-avatar` → `lead-gen-channels` |
-| Has revenue, wants more profit | `business-model-audit` → `lifetime-value` |
-| Ads running, wants better performance | `hook-writing` → `goated-ads` |
-| Has churn problem | `customer-retention` → `first-avatar` |
-| Needs revenue now | `fast-cash` |
+| Need scripts for specific objections | `sales-objection-handler` |
