@@ -55,7 +55,7 @@ Assume they're buying. Only walk it back if they explicitly say no.
 
 - Advertise the decoy, not the premium (the decoy generates leads)
 - The free thing must be genuinely useful — don't bait-and-switch
-- Gym Launch example: free courses → premium $16,000 licensing → $476K/month in 3 months
+- Gym Launch example: Advertised free gym-growth courses (the decoy). When interested leads signed up for a call to use the free material, they were shown the premium $16,000 done-with-you licensing program. The gap between free and $16,000 made the premium feel like the obvious choice for serious gym owners. Result: $476K/month in 3 months.
 - You can use this offer structure in cold ads, on a website, or in a sales call
 
 ## Common Mistakes

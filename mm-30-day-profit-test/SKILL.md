@@ -11,6 +11,13 @@ A money model works when profit from one customer in 30 days exceeds the cost to
 
 **The test:** `30-Day Revenue per Customer > CAC + COGS`
 
+**Run this test:**
+- Monthly while building your model (is it sustainable?)
+- Quarterly once positive (is it staying positive?)
+- Immediately after any price, offer, or delivery change (did you break something?)
+
+Track it monthly. It's your primary operating metric — not LTV, not DAU, not MRR.
+
 ---
 
 ## The Three Thresholds

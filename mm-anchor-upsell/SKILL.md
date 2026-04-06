@@ -23,6 +23,8 @@ Sell it seriously. Don't gloss over it — if you treat it like a fake, so will 
 **2. Get The Gasp**
 Expect the customer to hesitate or show shock. The bigger the gasp, the more they'll spend on the main offer.
 
+When you get The Gasp: pause 3 seconds, stay calm, then ask — don't fill the silence with justifications.
+
 **3. Come to the Rescue**
 Ask what makes the premium version premium, then check if they care about that.
 > "Do you care about [premium differentiator]?" / "Is [designer / concierge / speed] important to you?"

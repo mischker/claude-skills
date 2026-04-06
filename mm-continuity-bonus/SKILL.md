@@ -67,6 +67,10 @@ After they agree to continuity:
 
 Only 1 in 8 people needs to take this to raise 30-day profits by 50%.
 
+## Bonus Stacking Limit
+
+3–5 bonuses maximum. Each bonus should address a distinct adoption obstacle. Beyond 5, you're adding noise — the additional bonuses don't anchor value, they dilute attention. Stop before you overwhelm.
+
 ## Title System Alternative
 
 If you can't create tangible bonuses, give status titles: Silver, Gold, Diamond at 3/6/12 month milestones. Customers will introduce themselves by title. Free to implement; high perceived value.

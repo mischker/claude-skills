@@ -44,6 +44,16 @@ Write one sentence: "Customers want to ______ without ______."
 
 Pick ONE. Master it before adding more.
 
+**Quick match — pick based on your customer's primary barrier:**
+
+| Customer barrier | Best attraction offer |
+|---|---|
+| "I don't know if it'll work for me" → needs proof | Win Your Money Back |
+| "I've never heard of you" → needs awareness | Giveaway |
+| "Is this worth the price?" → needs contrast | Decoy Offer |
+| "I need volume / bulk value" → physical product | Buy X Get Y Free |
+| "I can't commit upfront" → needs risk reversal | Pay Less Now |
+
 | Offer | Best for | Core mechanic |
 |---|---|---|
 | **Win Your Money Back** (`mm-win-your-money-back`) | High-engagement services (fitness, coaching, programs) | Pay upfront; get money back if goals are hit |
@@ -137,7 +147,7 @@ Add this LAST. Only after attraction offer generates reliable customers.
 
 1. **One offer at a time** — don't implement all stages at once; it will break your business
 2. **Measure in quarters** — each stage takes time to become reliable
-3. **Affiliate products can fill gaps** — sell someone else's complementary product for commission if you don't have an upsell yet
+3. **Affiliate products can fill gaps** — sell someone else's complementary product for commission if you don't have an upsell yet. See `mm-affiliate-gaps` for how.
 4. **Raise prices in stages** — start low for feedback, raise until you stop making more money
 5. **Simple scales; fancy fails** — more ways to offer the same product, not more products
 

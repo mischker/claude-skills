@@ -58,6 +58,14 @@ For maximum motivation:
 
 Two reasons to stay: don't lose the money, don't fund a cause they hate.
 
+## Re-engagement After Cancellation
+
+If a customer completes their commitment, cancels, then wants to rejoin later:
+- They restart with the month-to-month option (fee applies), OR
+- Offer a new commitment to waive the fee again
+
+This prevents gaming (cancel after year 1, rejoin for free fee waive indefinitely).
+
 ## If > 5% Cancel Early
 
 Product problem, not pricing problem. The fee nudges people but can't override genuine dissatisfaction. Fix the product.

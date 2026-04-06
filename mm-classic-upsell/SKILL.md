@@ -29,9 +29,16 @@ The answer is your classic upsell.
 
 **Offer immediately after purchase** — at the moment of peak motivation, before buyer's remorse, before they leave.
 
-In-person: right at the register / end of close.
-Online: order confirmation page or post-purchase email sequence (within minutes).
-Sales call: at the end of the close call before hanging up.
+- In-person: the moment you're processing their payment, before they put their card away
+- Online: order confirmation page — not a follow-up email, the page they land on immediately
+- Sales call: within 10 seconds of them saying yes, before moving to logistics
+
+**The flow:**
+1. They say yes to main offer
+2. Pause two seconds (let the yes land)
+3. Upsell: "Before we finalize — one more thing..."
+
+Don't let logistics conversation (start date, onboarding, next steps) happen before you upsell. Once you're in logistics mode, the buying window closes.
 
 ## Script
 

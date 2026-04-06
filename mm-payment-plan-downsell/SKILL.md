@@ -65,7 +65,7 @@ Pull chair to their side of the table. Make it collaborative.
 ## Important Notes
 
 - Align payment dates with paycheck dates — fewer declined payments
-- Run declined cards multiple times the same day (different deposit windows)
+- **Declined card recovery:** Retry once immediately. If declined again, reach out same day: "We got a decline on [date] — can you update the card?" Most modern payment processors have built-in retry logic; rely on that rather than manual retries to stay within processor terms.
 - Offer mid-plan upsell: "You can still get the prepay discount if you pay your balance now"
 - Don't let people who would've paid in full switch to payment plans → close rate should rise, paid-in-full % should stay flat
 

@@ -93,16 +93,16 @@ Don't optimize retention if you're not getting enough customers. Don't optimize 
 
 ## The Hormozi Diagnostic Questions
 
-Ask these about any struggling business:
+Ask these about any struggling business. Each has a benchmark for what "good" looks like:
 
-1. **What do you sell and to whom?** (If you can't answer in one sentence → positioning problem)
-2. **How do you get customers?** (If no consistent answer → attraction problem)
-3. **What's your close rate?** (< 20% for warm → offer or sales problem)
-4. **What do you offer after they buy?** (Nothing → revenue problem)
-5. **What happens when they say no?** (Nothing → downsell problem)
-6. **What % are on recurring billing?** (< 30% → continuity problem)
-7. **What's your monthly churn?** (> 5% → retention problem)
-8. **Can one customer fund the cost of getting two more?** (No → model isn't working yet)
+1. **What do you sell and to whom?** Good: one sentence, specific avatar, no hedging. Bad: "anyone who needs X."
+2. **How do you get customers?** Good: one repeatable channel producing 10+ customers/month. Bad: "referrals and word of mouth" with no system.
+3. **What's your close rate?** Good: > 20% for warm leads, > 5% for cold. Bad: below that → offer or sales problem.
+4. **What do you offer after they buy?** Good: 2+ documented upsell offers. Bad: nothing → revenue problem.
+5. **What happens when they say no?** Good: 3-step downsell sequence. Bad: nothing → downsell problem.
+6. **What % are on recurring billing?** Good: > 50% of customer base. Bad: < 30% → continuity problem.
+7. **What's your monthly churn?** Good: < 5% (< 2% if annual billing). Bad: > 5% → retention problem.
+8. **Can one customer fund the cost of getting two more?** Good: 30-day revenue > 2x (CAC + COGS). Bad: no → model isn't working yet.
 
 ---
 

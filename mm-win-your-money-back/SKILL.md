@@ -22,11 +22,12 @@ Charge customers upfront. Define specific actions/results they must hit. If they
 - List 3–5 behaviors that make customers succeed (attendance, check-ins, homework)
 - These become your mandatory requirements — not just results, but actions
 - Customers who do the actions tend to hit the goal anyway
+- **Calibrate the goal so refund rate lands under 10%.** If refund rate is above 10%, the goal was too easy — tighten it to the 80th percentile of actual completers. If almost no one qualifies, the goal is too hard — loosen it.
 
 **3. Set the refund terms**
 - Offer store credit over cash — reduces actual payout and keeps revenue in-house
-- 10% refund rate is acceptable; above that, fix the goal or the actions
 - Make refund meetings mandatory — these are your upsell opportunities
+- **Pre-set the refund meeting:** Tell customers upfront: "If you hit the goal, we'll do a 20-minute call to talk about what's next." This sets expectations, ensures > 80% attendance, and frames it as a win conversation — not a surprise sales pitch.
 
 **4. Price it**
 - Price must cover at least 30-day advertising + delivery costs

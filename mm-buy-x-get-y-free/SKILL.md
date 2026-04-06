@@ -51,7 +51,7 @@ Converts a one-time buy into continuity with zero extra sales effort.
 
 ## Key Principles
 
-- **More free than paid:** If the ratio is 1 paid : 1 free, double the free
+- **More free than paid:** If the ratio is 1 paid : 1 free, double the free. Stay within 1:3 max — "buy 1 get 5 free" triggers "what's the catch?" skepticism.
 - **All free items must be related** to the core offer — unrelated bonuses attract wrong buyers
 - **Price everything individually** — unpriced bonuses have zero anchor value
 - **Prepaid is premium:** Give slightly better bonuses to customers who prepay more upfront

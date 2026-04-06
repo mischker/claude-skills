@@ -217,3 +217,4 @@ Good names improve adoption (users know what it does before clicking) and intern
 | Naming features after internal jargon | Apply M-A-G-I-C; test the name with one user who hasn't seen it |
 | Treating all stakeholders as one buyer | Run the value equation separately for end users and business stakeholders |
 | Shipping without stacking the launch | Enumerate every component; each one adds adoption momentum |
+| User and stakeholder value conflict → paralysis | Score both on value equation; calculate retention lift vs. revenue impact; pick the higher LTV outcome |

@@ -53,6 +53,7 @@ Same math. Second version anchors higher, rewards speed, never penalizes.
 - $97 feels meaningfully less than $100
 - $997 feels meaningfully less than $1,000
 - Works for sub-$10K prices; above $10K, use round numbers (signals confidence)
+- **$7.5K–$10K gray zone:** $9,997 still works; $9,999 reads as gimmicky. When in doubt, test $9,997 vs. $10,000 — most practitioners find round numbers win in this tier.
 
 Use charm pricing on upsells and lower-ticket items. Use round numbers on premium/high-ticket anchors.
 

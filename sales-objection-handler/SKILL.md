@@ -41,6 +41,22 @@ Then close again.
 
 ---
 
+## "I Need to Sleep On It"
+
+**Real objection: Fear of making a mistake — distinct from needing more information.**
+
+**Script:**
+> "Of course. What's the biggest concern keeping you from deciding right now?"
+
+They'll usually name something concrete. Address that one thing. Then:
+> "If [specific concern] wasn't an issue, would you be ready to start?"
+
+If yes → address it, then close. If no → there's another objection underneath; keep asking.
+
+*Sleep on it = fear of mistake. Think about it = needs more information. Treat them differently.*
+
+---
+
 ## "I Need to Think About It"
 
 **Almost always means: "I'm not convinced" or "I'm afraid of a mistake."**

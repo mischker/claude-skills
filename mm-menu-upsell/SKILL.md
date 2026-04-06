@@ -47,10 +47,16 @@ If first purchase: "What card do you want to use?" (Not "do you want to pay?")
 
 ## The Economist Play (Two Products, Want Both)
 
+**When to use:** You have two complementary products (A and B) and want most customers to buy both, but they default to choosing one.
+
+**When NOT to use:** If Option B is significantly better than the bundle on its own, or your margins don't support bundling at the same price.
+
 If you have Option A ($59), Option B ($125), and want people to buy both:
 1. Add Option C (A+B) at same price as B ($125)
 2. People compare B and C → C is obviously better value at the same price
 3. Most buy C (both)
+
+**Why it works:** People compare visually adjacent options. B and C sit at the same price — C is clearly more. B exists only to make C feel like a deal. Without B, people compare A vs. C and often choose A.
 
 ## Full Script Template
 

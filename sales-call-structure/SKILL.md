@@ -90,8 +90,10 @@ See `sales-objection-handler` for full scripts.
 
 **Core principle:** Ask before answering. Identify the real objection, then address only that.
 
-After addressing: always close again.
-> "Does that address your concern? Great — do you want to move forward?"
+After addressing: always close again — with the same assumptive energy as the original close:
+> "Does that address your concern? Great." [Pause one second.] "So — [Option A] or [Option B]? Which card do you want to use?"
+
+Don't ask permission again. Assume the yes is back on. The objection was handled; the decision stands.
 
 ---
 

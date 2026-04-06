@@ -63,6 +63,15 @@ Key: Make the offer feel exclusive to participants, not a general discount.
 - Track entry source to measure ad ROI
 - Giveaways work best as list builders — the promotional offer is where money is made
 
+## After the 7-Day Deadline
+
+If non-winners don't take the promotional offer:
+- Day 8: Send one final reminder ("Last chance" subject line — be direct, not pushy)
+- Beyond Day 8: Move them into your standard email nurture sequence
+- 90-day nurture window: typically converts 15–20% of missed non-winner offers at full price
+
+Don't discount again in the nurture. Urgency was real and gone — value-led content from here.
+
 ## Common Mistakes
 
 | Mistake | Fix |

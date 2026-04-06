@@ -32,6 +32,8 @@ Hormozi breaks lead gen into four categories based on who does the outreach:
 
 **Best for:** Launching a new offer; validating before spending money
 
+**If you have no warm list:** Build one first (2–4 weeks). Reconnect with past colleagues, classmates, clients via LinkedIn. Ask current contacts "who do you know who has [problem]?" Attend 2–3 industry events. Join 2–3 relevant communities and contribute for a few weeks before reaching out. Only move to cold outreach after you've exhausted warm.
+
 Who: People who already know you — past customers, professional contacts, friends, followers
 
 How:

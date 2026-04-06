@@ -55,6 +55,14 @@ For every step between the customer's current state and the dream outcome, list 
 
 Go exhaustive. Aim for 20+ problems. One unaddressed problem = one reason to not buy.
 
+**Example — fitness coaching offer ("Transform your body in 90 days"):**
+- Value doubt: "I've tried before and failed" / "I don't know if this works for my age / injury / metabolism"
+- Likelihood doubt: "The coach won't understand my specific situation" / "What if I don't see results by week 6?"
+- Effort: "Meal planning is too time-consuming" / "I don't have equipment" / "My family won't support this"
+- Time: "90 days sounds long" / "I need to see something in the first 2 weeks or I'll quit"
+
+A thorough problem list for one offer typically generates 25–35 specific problems. If you stop at 10, you're not done.
+
 ---
 
 ## Step 3: Turn Problems Into Solutions

@@ -47,13 +47,15 @@ Hormozi sent 200 personalized videos offering $4,000 in credit → 20% conversio
 
 Find leads via negative reviews on competitor products (scrape contact info where available).
 
-## The Gift Card Play
+## The Gift Card Play (Full Mechanics)
 
-Sell gift cards at 90% off. Limit 2 per customer. Customers give them to friends as gifts.
-- $200 gift card for $20
-- Apply $200 value toward an offer with $1,000+ price tag
-- People pay you to refer their friends
-- Unused gift cards = pure revenue
+1. Create a referral gift card worth $200
+2. Sell it to existing customers for $20 (90% off); limit 2 per customer per year (prevents arbitrage)
+3. Tell them to give it to a friend — when the friend uses it, apply the $200 toward an offer with $1,000+ price tag
+4. Track via unique code per card (not physical cards) so you know which customer referred whom
+5. Unused cards expire after 24 months → pure revenue
+
+**Result:** Customers pay you to generate referrals. Unused cards are profit. The $200 gift card has a 20% discount effect on a $1,000 offer — well within margin.
 
 ## Urgency Add-On
 

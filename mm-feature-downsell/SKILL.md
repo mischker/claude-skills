@@ -55,8 +55,8 @@ Name packages after status / aspiration:
 1. Remove highest-value feature, lower price a lot → many re-upsell themselves on the original
 2. Remove next feature, lower price a bit more → gets the budget-constrained buyer
 3. After 2 feature downsells, temperature check: 1–10 scale
-4. If 8+: switch to Payment Plan Downsell → combine both
-5. If 7 or below: find what a 10 looks like → recombine features for that
+4. **If 8+:** Switch to Payment Plan Downsell — they want it but can't pay upfront. Combine both tactics.
+5. **If 7 or below:** STOP. Ask "What would a 10 look like?" then recombine features to match that. Don't keep offering variations to someone who fundamentally doesn't want the outcome.
 
 After each step: **"Deal?" or "Fair enough?"** — this simple close works.
 

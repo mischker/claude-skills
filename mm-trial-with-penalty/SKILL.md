@@ -37,13 +37,25 @@ No card = no trial. Non-negotiable.
 **Step 3 — Sell staying and paying**
 > "If this program gets you the result, will you stay long-term?" They must say yes. If no → no point in giving a trial.
 
-**Step 4 — Explain the fees AFTER getting the card**
-> "We'll do our part so long as you do yours. If you miss anything, you get a small fee — it keeps you on track. If you follow through, you get all this for free. Best of both worlds."
+**Step 4 — Explain the fees clearly, then get the card**
+> "Here's how it works: you do [actions], you get this completely free. If you miss [action], there's a small $[fee] per miss — it keeps us both accountable and makes sure you actually get results. If you follow through, you pay nothing. Fair?"
 
-Note: Explaining fees before the card increases resistance. Explain after, with "that's just how we've always done it" energy. Have customers initial next to fee clauses.
+Then get the card.
+
+Have customers initial next to fee clauses so the agreement is explicit. Customers who understand and accept the fee structure upfront comply better and dispute less than those who encounter it as a surprise.
 
 **Step 5 — Explain check-ins (your upsell meetings)**
 > "You agree to three check-in calls. First one we do [X] so you can [benefit]. Second [Y] for [benefit]. Third [Z] for [benefit]. Missing them triggers a fee because that's where we get you results."
+
+## Mid-Trial: When They Miss an Action
+
+Don't wait until end of trial to address misses.
+
+1. Reach out same day: "Noticed you missed [action] — everything OK?"
+2. If they respond and commit to catching up: waive the fee this once
+3. If they go silent: charge the fee as agreed, then reach out again
+
+Use the fee as a conversation opener, not a penalty. Most mid-trial problems are solved with one call.
 
 ## What To Do at the End of Trial
 
@@ -65,6 +77,6 @@ Note: Explaining fees before the card increases resistance. Explain after, with 
 | Mistake | Fix |
 |---|---|
 | No card required → no leverage | Card is non-negotiable; no card = no trial |
-| Fees explained upfront → resistance | Get card first, explain fees after |
+| Fees hidden until after card → disputes | Explain fees clearly before collecting card; have them initial fee clauses |
 | No mandatory meetings → no upsells | Make check-ins required as part of fee-avoidance terms |
 | Billing non-starters → bad reviews | Reach out multiple times; waive fees; don't nuke a relationship for a small fee |
