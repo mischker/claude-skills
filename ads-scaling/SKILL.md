@@ -1,6 +1,6 @@
 ---
 name: ads-scaling
-description: Use when trying to get more leads from existing advertising methods — whether increasing volume, improving conversion at a bottleneck, or expanding to new channels. Includes Rule of 100, constraint testing, and the More-Better-New framework.
+description: Use when paid ads are profitable but volume is limited — scaling spend, finding the constraint in the funnel, or expanding to new platforms. Not for fixing underperforming ads (use goated-ads or hook-writing for that).
 ---
 
 # Ads Scaling — More Leads From What Already Works

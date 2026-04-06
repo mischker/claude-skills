@@ -20,7 +20,7 @@ Building from scratch. Use these in order — skipping steps creates problems do
 
 | Step | Question | Skill |
 |---|---|---|
-| 1 | What am I selling and to whom? | `hormozi-offer-design` or `grand-slam-offer-creation` |
+| 1 | What am I selling and to whom? | `grand-slam-offer-creation` or `grand-slam-offer-creation` |
 | 2 | Who is my ideal customer exactly? | `first-avatar` |
 | 3 | How do I get my first leads? | `lead-gen-channels` → specific channel skills below |
 | 4 | How do I run the sales conversation? | `sales-call-structure` → `sales-closing` |
@@ -86,7 +86,7 @@ Business is running. Something isn't working or you want more. Start with diagno
 ### Offer not converting
 | Symptom | Skill |
 |---|---|
-| Redesigning or improving the core offer | `hormozi-offer-design` |
+| Redesigning or improving the core offer | `grand-slam-offer-creation` |
 | Reviewing an existing offer | `hormozi-offer-reviewer` |
 | Pricing feels off | `mm-pricing-strategy` or `pricing-psychology` |
 

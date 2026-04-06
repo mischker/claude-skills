@@ -1,6 +1,6 @@
 ---
 name: grand-slam-offer-creation
-description: Use when creating, redesigning, or improving a business offer, product package, or pricing structure. Covers full Hormozi offer-building process: value equation, dream outcome, problem-solution stacking, delivery vehicles, trim and stack, scarcity, urgency, bonuses, guarantees, and naming. Use when user asks about making an irresistible offer, increasing conversions, pricing strategy, or differentiating from competitors.
+description: Use when creating, redesigning, or improving a core offer — when conversion is low, the offer feels like a commodity, pricing feels arbitrary, or you're unsure how to structure value, guarantees, and bonuses into something compelling.
 ---
 
 # Grand Slam Offer Creation
@@ -270,22 +270,6 @@ The core Grand Slam Offer doesn't change. Promotions are just "wrapping paper."
 - Results proven
 - Sales process dialed in
 - Reputation established
-
----
-
-## Avatar Optimization (From Lost Chapters)
-
-**Vista Method:** Analyze current customers. Sort by lifetime value. Find what the top 20% have in common. Cut channels bringing low-value customers. Double down on channels bringing high-value ones.
-
-**4 Steps:**
-1. Survey all customers (demographics, business stats, aspirations, buying process)
-2. Sort by highest LTV/spend/retention; focus on top 20%
-3. Find 3–5 shared qualifiers
-4. Execute: update advertising to speak to them specifically; re-engineer the buying journey to match how they bought
-
-**Key finding from Gym Launch:** 78% of top customers consumed at least 2 long-form content pieces before buying. Reverse-engineer and replicate that journey for all prospects.
-
-**You charge more because of who they are, not because of what you do.**
 
 ---
 

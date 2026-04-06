@@ -1,6 +1,6 @@
 ---
 name: fast-cash
-description: Use when a business needs rapid revenue from existing customers, faces an unexpected cash need, or wants to unlock high-ticket spending from the 10% of customers who could pay 10x the current price. Distinct from long-term offer sequencing.
+description: Use when a business or SaaS needs rapid revenue from existing customers — unexpected cash need, annual plan push, premium tier launch, or unlocking high-ticket spending from the 10% who could pay 10x. Distinct from long-term offer sequencing.
 ---
 
 # Fast Cash — Premium Offer to Warm Audience

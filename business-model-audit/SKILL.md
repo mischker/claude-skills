@@ -1,6 +1,6 @@
 ---
 name: business-model-audit
-description: Use when diagnosing what's wrong with an existing business — applying Hormozi's lens to identify which stage of the money model is broken and what to fix first.
+description: Use when diagnosing what's wrong with an existing business or SaaS — applying Hormozi's lens to identify which stage of the money model is broken and what to fix first.
 ---
 
 # Business Model Audit — Hormozi Diagnostic Framework
@@ -27,7 +27,7 @@ Questions to ask:
 | Finding | Problem | Fix |
 |---|---|---|
 | No leads | No advertising / wrong channel | `lead-gen-channels` |
-| Leads not converting | Offer isn't compelling | `hormozi-offer-design` |
+| Leads not converting | Offer isn't compelling | `grand-slam-offer-creation` |
 | Converting but unprofitable | CAC > 30-day revenue | Add upsell/downsell before scaling |
 | Decent conversion, low volume | Right offer, wrong scale | Increase ad spend after testing |
 
@@ -50,7 +50,7 @@ Questions to ask:
 | No upsell offered at all | Revenue left on table | Implement `mm-classic-upsell` immediately |
 | Upsell offered but < 15% take rate | Wrong upsell, bad timing, or weak framing | Audit: right next problem? Right moment? |
 | No downsell process | Losing people who say no | Add `mm-payment-plan-downsell` as first step |
-| Price objections overwhelming close | Offer not compelling enough | `hormozi-offer-design` → improve core value |
+| Price objections overwhelming close | Offer not compelling enough | `grand-slam-offer-creation` → improve core value |
 
 **Quick win:** A single upsell added to a working attraction offer can flip a losing model to profitable overnight.
 
@@ -110,7 +110,7 @@ Ask these about any struggling business. Each has a benchmark for what "good" lo
 
 | Quick win (this week) | Root cause fix (this quarter) |
 |---|---|
-| Add upsell to existing close | Redesign offer using `hormozi-offer-design` |
+| Add upsell to existing close | Redesign offer using `grand-slam-offer-creation` |
 | Add payment plan option | Rebuild pricing model |
 | Call old customers with rollover offer | Build systematic win-back campaign |
 | Add 3% processing fee | Restructure billing cadence |

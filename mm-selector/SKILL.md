@@ -1,6 +1,6 @@
 ---
 name: mm-selector
-description: Use when designing a money model for a new or existing business — identifies which attraction, upsell, downsell, and continuity offers fit the business type, then chains to the detailed skill for each selected offer.
+description: Use when designing or restructuring a money model — choosing which entry offer, upsells, downsells, and recurring offers to build for a given business type, and in what sequence.
 ---
 
 # Money Model Selector — Build Your $100M Money Model
