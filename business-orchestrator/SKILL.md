@@ -37,15 +37,6 @@ Building from scratch. Use these in order — skipping steps creates problems do
 | Free giveaway or lead magnet | `lead-magnet` |
 | Paid ads | `paid-ads` |
 
-**Building a software product instead:**
-
-| Step | Skill |
-|---|---|
-| Discover who to build for | `pm-user-research` |
-| Prioritize what to build | `pm-value-stack` |
-| Get users to activate and stay | `pm-retention` |
-| Measure what matters | `pm-data` |
-
 ---
 
 ## Existing Business Improvements
@@ -90,7 +81,6 @@ Business is running. Something isn't working or you want more. Start with diagno
 | Symptom | Skill |
 |---|---|
 | High monthly churn (service or subscription) | `customer-retention` |
-| High churn in a software product | `pm-retention` |
 | Wrong-fit customers causing the most problems | `first-avatar` |
 
 ### Offer not converting
