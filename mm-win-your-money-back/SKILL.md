@@ -1,0 +1,66 @@
+---
+name: mm-win-your-money-back
+description: Use when designing an attraction offer where customers pay upfront and can earn their money back by hitting a goal or completing actions — fitness challenges, business programs, transformation offers.
+---
+
+# Win Your Money Back — Attraction Offer
+
+## Overview
+
+Charge customers upfront. Define specific actions/results they must hit. If they do, they get their money back. Attracts price-sensitive buyers, creates high-engagement customers, and generates upsell meetings.
+
+**Core mechanic:** Risk reversal that filters for committed customers and creates natural upsell moments.
+
+## How to Build It
+
+**1. Set the goal**
+- Pick one measurable outcome (lbs lost, revenue earned, days attended)
+- Must be achievable by a committed customer in your timeframe
+- Mirror this criteria in your Trial With Penalty offer (downsell) for consistency
+
+**2. Define qualifying actions**
+- List 3–5 behaviors that make customers succeed (attendance, check-ins, homework)
+- These become your mandatory requirements — not just results, but actions
+- Customers who do the actions tend to hit the goal anyway
+
+**3. Set the refund terms**
+- Offer store credit over cash — reduces actual payout and keeps revenue in-house
+- 10% refund rate is acceptable; above that, fix the goal or the actions
+- Make refund meetings mandatory — these are your upsell opportunities
+
+**4. Price it**
+- Price must cover at least 30-day advertising + delivery costs
+- Winners get money back; non-winners keep paying → your CAC gets covered either way
+
+## Scripts
+
+**Attraction pitch:**
+> "Join our [X]-week [program]. If you [do actions / hit goal], we'll give you your [price] back. If you don't, you keep all the results you made. Either way, you win."
+
+**Refund meeting (upsell moment):**
+> "Congratulations — you hit the goal. You've earned your money back. Now I want to show you what's next for people at your level..."
+
+## Key Numbers
+
+| Metric | Target |
+|---|---|
+| Refund rate | < 10% |
+| Attendance at refund meeting | > 80% |
+| Upsell rate from refund meeting | > 30% |
+
+## Store Credit vs. Cash
+
+Always lead with store credit:
+> "As a thank you for crushing your goal, we're giving you $[X] in store credit toward your next step with us."
+
+Only offer cash if they push back. Most won't.
+
+## Common Mistakes
+
+| Mistake | Fix |
+|---|---|
+| Goal is too easy → everyone wins | Make goal hard but achievable with full effort |
+| Goal is too hard → no one wins | Survey completers; find the 80th percentile result |
+| Refund is cash → kills margin | Default to store credit; offer cash as fallback |
+| No refund meeting → missed upsell | Make the meeting mandatory to collect refund |
+| Criteria are vague → disputes | List every qualifying action with specific thresholds |
