@@ -11,6 +11,8 @@ Objections are not rejections. They are requests for more information or signals
 
 **Core rule:** Never lower the price for the same product. Address the fear behind the objection, then offer a different structure (payment plan, feature change) if needed.
 
+**Context:** These scripts slot into Phase 5 of a sales call. See `sales-call-structure` for the full call flow.
+
 ---
 
 ## The Objection Framework

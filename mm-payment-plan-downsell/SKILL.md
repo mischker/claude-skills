@@ -35,7 +35,7 @@ Ask for the largest possible down payment. Schedule on paycheck dates (not month
 > "On a scale from 1–10, how much do you want this?"
 
 - 8–10: keep downselling → "We'll figure out a way to make this work."
-- 7 or below: pivot to Feature Downsell → "Let's find something that's a better fit for where you are."
+- 7 or below: pivot to Feature Downsell (`mm-feature-downsell`) → "Let's find something that's a better fit for where you are."
 
 **Step 5 — Three payments (⅓ now, ⅓ paycheck 2, ⅓ paycheck 3)**
 

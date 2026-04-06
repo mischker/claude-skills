@@ -13,6 +13,8 @@ Present your most expensive option first. If the customer hesitates ("The Gasp")
 
 **Key insight:** Making a $100 offer to someone with a $1,000 budget loses you $900. You lose nothing by offering premium first — some will buy it.
 
+**Relationship to Classic Upsell:** This is a perception-first variant of `mm-classic-upsell`. Use Classic Upsell when the next problem is clear and obvious. Use Anchor Upsell when you want to shift budget expectations before presenting your core offer.
+
 ## Steps
 
 **1. Present the Anchor** (5–10x more expensive than main offer)

@@ -1,6 +1,6 @@
 ---
 name: pm-retention
-description: Use when designing onboarding flows, activation sequences, retention mechanics, re-engagement systems, offboarding, or writing specs for any feature that affects whether users come back. Do NOT use for feature prioritization or roadmap planning (use pm-value-stack for those).
+description: Use when a product has churn, low activation, or poor re-engagement — designing the architecture that gets users to first value fast and keeps them coming back. Not for roadmap planning (use pm-value-stack).
 ---
 
 # PM Retention — Hormozi Lens

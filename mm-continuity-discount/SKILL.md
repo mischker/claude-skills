@@ -11,6 +11,14 @@ Give customers free service time (or a discount) in exchange for committing to a
 
 **Core mechanic:** "Buy X months, get Y free." The more free time, the more people commit. The timing of when they get the free time affects churn and cash flow.
 
+**Which continuity offer to use:**
+
+| Offer | Use when |
+|---|---|
+| **Continuity Bonus** (`mm-continuity-bonus`) | You have something valuable to give away; customer motivated by getting more |
+| **Continuity Discount** (this skill) | You want to give free time or a lower rate in exchange for commitment |
+| **Waived Fee** (`mm-waived-fee`) | High-ticket B2B or long-term service; commitment enforced by fee avoidance |
+
 ## The Four Ways to Apply the Discount
 
 | Method | Cash impact | Churn impact | Best for |

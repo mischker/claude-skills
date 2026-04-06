@@ -167,3 +167,5 @@ Or: Waived Fee Offer — people stay to avoid losing the discount they already h
 | Increase profit with zero friction | 3% processing fee + 4-week billing |
 | Make premium feel affordable | Per-day reframe |
 | Drive commitment | Loss framing / Waived Fee |
+
+For systematic iteration on price points over time, see `mm-pricing-strategy`.

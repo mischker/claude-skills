@@ -1,6 +1,6 @@
 ---
 name: mm-menu-upsell
-description: Use when designing an upsell with multiple products or service tiers — unselling what they don't need, prescribing what they do need, and removing friction from payment.
+description: Use when a customer has just bought and you have multiple products or add-ons to offer — especially in person, on a call, or at point of sale with a full menu of options.
 ---
 
 # Menu Upsell — Upsell Offer

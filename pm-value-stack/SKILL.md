@@ -1,6 +1,6 @@
 ---
 name: pm-value-stack
-description: Use when working on product management tasks: prioritizing features, writing PRDs, defining product strategy, building a product roadmap, scoping an MVP, writing user stories, evaluating build vs buy, or positioning a product launch. Do NOT use for marketing offers, sales, or pricing strategy (use grand-slam-offer-creation for those).
+description: Use when defining product strategy, prioritizing features, scoping MVPs, or writing PRDs — applying value equation logic to product decisions. Not for marketing offers or pricing (use grand-slam-offer-creation for those).
 ---
 
 # PM Value Stack — Product as Offer

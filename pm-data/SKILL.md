@@ -1,6 +1,6 @@
 ---
 name: pm-data
-description: Use when analyzing product metrics, retention curves, engagement data, churn rates, cohort analysis, or making data-driven product decisions. Do NOT use for feature prioritization or PRDs (use pm-value-stack for those).
+description: Use when product metrics show mixed signals — interpreting retention curves, churn patterns, or cohort data by user value tier rather than blended averages to make accurate product decisions.
 ---
 
 # PM Data Analysis — Hormozi Lens

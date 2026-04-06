@@ -13,6 +13,14 @@ Give customers something valuable (bonus) when they sign up for a recurring paym
 
 **Timing:** Use LAST in your money model sequence — after Attraction, Upsell, and Downsell offers have been made.
 
+**Which continuity offer to use:**
+
+| Offer | Use when |
+|---|---|
+| **Continuity Bonus** (this skill) | You have something valuable to give away; customer motivated by getting more |
+| **Continuity Discount** (`mm-continuity-discount`) | You want to give free time or lower rate in exchange for a commitment |
+| **Waived Fee** (`mm-waived-fee`) | High-ticket B2B or long-term service; commitment enforced by fee avoidance |
+
 ## Structure
 
 **Step 1: Design the bonus**

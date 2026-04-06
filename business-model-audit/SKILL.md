@@ -11,6 +11,8 @@ Most business problems trace back to a broken stage in the money model. Before f
 
 **The diagnostic question:** Where does money stop flowing?
 
+**Always start with leads.** No amount of conversion optimization, upsell improvement, or retention work fixes a business that doesn't have a repeatable way to get customers in front of its offer.
+
 ---
 
 ## Stage 1: Diagnose the Attraction Stage
