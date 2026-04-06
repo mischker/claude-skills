@@ -1,6 +1,6 @@
 ---
 name: lifetime-value
-description: Use when LTGP:CAC ratio is below 3:1, revenue per customer is flat, or the right monetization lever to pull isn't clear. Use before scaling ad spend to ensure the unit economics can support it.
+description: Use when LTGP:CAC ratio is below 3:1, revenue per customer (or MRR per account for SaaS) is flat, or the right monetization lever to pull isn't clear. Use before scaling ad spend to ensure unit economics can support it.
 ---
 
 # Lifetime Value — The Crazy Eight

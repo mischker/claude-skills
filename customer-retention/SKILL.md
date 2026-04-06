@@ -1,6 +1,6 @@
 ---
 name: customer-retention
-description: Use when a subscription or service business has high monthly churn, flat or declining revenue despite acquiring customers, or when LTV is low relative to CAC. Not for software/product retention (use pm-retention for that).
+description: Use when a subscription, SaaS, or service business has high monthly churn, flat or declining revenue despite acquiring customers, or when LTV is low relative to CAC.
 ---
 
 # Customer Retention — Churn Reduction System

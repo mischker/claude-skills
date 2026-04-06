@@ -1,6 +1,6 @@
 ---
 name: sales-call-structure
-description: Use when designing or running a sales call — the full call flow from opener through close, upsell, and downsell. Covers discovery, diagnosis, pitch, objection handling, and follow-up.
+description: Use when designing or running a sales call or software demo — the full call flow from opener through close, upsell, and downsell. Covers discovery, diagnosis, pitch, objection handling, and follow-up.
 ---
 
 # Sales Call Structure — Hormozi Framework

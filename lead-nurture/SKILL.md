@@ -1,6 +1,6 @@
 ---
 name: lead-nurture
-description: Use when leads are opting in but not booking, or booking but not showing up to appointments. The gap between advertising and the sales conversation. Not for long-term email nurture or content strategy.
+description: Use when leads are opting in but not booking, booking but not showing up, or trial sign-ups aren't converting to paid. The gap between advertising and the first sales conversation or purchase decision. Not for long-term email nurture or content strategy.
 ---
 
 # Lead Nurture — Maximize Show Rates

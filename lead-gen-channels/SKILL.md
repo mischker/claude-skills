@@ -1,6 +1,6 @@
 ---
 name: lead-gen-channels
-description: Use when selecting or evaluating lead generation channels for a business — matching business type, audience, and offer to the right traffic source. Based on $100M Leads framework.
+description: Use when selecting or evaluating lead generation channels — matching business type (service, SaaS, e-commerce, B2B), audience, and offer to the right traffic source. Based on $100M Leads framework.
 ---
 
 # Lead Generation Channels — $100M Leads Framework
