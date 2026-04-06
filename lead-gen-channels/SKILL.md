@@ -11,6 +11,16 @@ The right channel depends on three things: who your customer is, where they alre
 
 **Core principle:** Find where your customer already congregates, meet them there with something they want.
 
+**Detailed implementation skills:**
+- `lead-magnet` — creating the free offer that gets strangers to engage
+- `warm-outreach` — 10-step system with scripts and ACA framework
+- `content-strategy` — hook-retain-reward, give:ask ratio, scaling
+- `cold-outreach` — list building, personalization, volume strategy
+- `paid-ads` — callout + What-Who-When + CTA, targeting, client-financed acquisition
+- `ads-scaling` — More-Better-New framework, Rule of 100, constraint testing
+- `referral-system` — building goodwill + 7 ways to ask
+- `affiliate-program` — 6-step affiliate army building
+
 ---
 
 ## The Four Lead Gen Categories
