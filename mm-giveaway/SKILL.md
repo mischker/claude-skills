@@ -1,6 +1,6 @@
 ---
 name: mm-giveaway
-description: Use when designing an attraction offer that uses a contest or prize giveaway to generate leads, then converts non-winners with a promotional offer — events, product launches, list building.
+description: Use when you want to generate a large number of leads quickly through a contest or prize — the giveaway drives entries and attention, non-winners receive a promotional offer, and winners become social proof.
 ---
 
 # Giveaway — Attraction Offer

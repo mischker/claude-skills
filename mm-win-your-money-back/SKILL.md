@@ -1,6 +1,6 @@
 ---
 name: mm-win-your-money-back
-description: Use when designing an attraction offer where customers pay upfront and can earn their money back by hitting a goal or completing actions — fitness challenges, business programs, transformation offers.
+description: Use when you want to remove purchase risk by letting customers earn back their full payment by completing specific actions or hitting a goal — turns the guarantee into the marketing hook rather than a fallback.
 ---
 
 # Win Your Money Back — Attraction Offer

@@ -1,6 +1,6 @@
 ---
 name: mm-buy-x-get-y-free
-description: Use when designing an attraction offer that bundles free products or services with a purchase to increase perceived value and conversion — e-commerce, subscriptions, physical products, service packages.
+description: Use when you want to increase conversion or average order value by including free products or services with a purchase — bundles, gift-with-purchase, free add-ons, or packaged deals.
 ---
 
 # Buy X Get Y Free — Attraction Offer

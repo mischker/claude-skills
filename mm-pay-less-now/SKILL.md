@@ -1,6 +1,6 @@
 ---
 name: mm-pay-less-now
-description: Use when designing an attraction offer with two payment options — pay full price later (conditional guarantee) or pay a discounted price now with bonuses — high-ticket services, programs, coaching.
+description: Use when you want to incentivize customers to pay today — offering a lower price now with bonuses vs. paying full price later, giving them a real reason to decide immediately rather than wait.
 ---
 
 # Pay Less Now or Pay More Later — Attraction Offer

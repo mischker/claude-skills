@@ -1,6 +1,6 @@
 ---
 name: mm-waived-fee
-description: Use when designing a continuity offer with commitment incentive — present a setup fee for month-to-month, then waive it if the customer commits to a year or longer. Best for high-ticket services, long-term programs, B2B subscriptions.
+description: Use when you want to convert month-to-month customers to annual plans — charge a setup or onboarding fee for short-term, then waive it entirely for customers who commit to a year or longer.
 ---
 
 # Waived Fee Offer — Continuity Offer

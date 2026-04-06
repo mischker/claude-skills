@@ -1,6 +1,6 @@
 ---
 name: mm-offer-stacking
-description: Use when combining multiple offer types creatively — mixing upsell tactics into attraction offers, using continuity as attraction, layering multiple models in a single sale, or building non-standard money model sequences.
+description: Use when a single offer structure isn't capturing enough value — layering multiple tactics into one sale, using a subscription as a lead magnet, offering upsells inside a free trial, or building non-standard offer sequences.
 ---
 
 # Offer Stacking — Creative Money Model Combinations

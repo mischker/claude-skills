@@ -1,6 +1,6 @@
 ---
 name: mm-trial-with-penalty
-description: Use when designing a free trial that converts to paid — instead of a standard free trial, customers only pay if they don't meet specific action requirements. Use for recurring offers where customers do work to get results.
+description: Use when you want a free trial that filters for serious buyers — customers who complete required actions get it free, those who don't pay a small fee. Prevents tire-kickers while keeping the trial as a marketing hook.
 ---
 
 # Trial With Penalty — Downsell Offer

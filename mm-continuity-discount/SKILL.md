@@ -1,6 +1,6 @@
 ---
 name: mm-continuity-discount
-description: Use when designing a recurring offer that gives free time or a discount upfront, spread, or at the end of a commitment — trash collection, lawn care, SaaS, gyms, any subscription with contract options.
+description: Use when you want to get subscription customers to commit to a longer term upfront — structuring the discount, free months, or waived time so customers feel rewarded for committing and you get cash upfront.
 ---
 
 # Continuity Discount Offer — Continuity Offer

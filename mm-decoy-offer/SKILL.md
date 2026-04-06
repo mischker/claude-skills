@@ -1,6 +1,6 @@
 ---
 name: mm-decoy-offer
-description: Use when designing an attraction offer where a free or low-cost option exists alongside a premium paid option — freemium products, free consultations, lead magnets that open a sales conversation.
+description: Use when you offer something free (consultation, trial, lead magnet, freemium tier) as the entry point into a paid offer — the free option is the hook that opens the sales conversation or upsell opportunity.
 ---
 
 # Decoy Offer — Attraction Offer

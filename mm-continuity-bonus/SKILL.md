@@ -1,6 +1,6 @@
 ---
 name: mm-continuity-bonus
-description: Use when designing a recurring offer — give customers a valuable bonus for signing up today to a subscription or membership. Use after attraction, upsell, and downsell offers to lock in recurring revenue.
+description: Use when you want to get customers to sign up for a subscription or membership now rather than later — using an exclusive bonus as the incentive for committing today.
 ---
 
 # Continuity Bonus Offer — Continuity Offer
