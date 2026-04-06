@@ -1,6 +1,6 @@
 ---
 name: branding
-description: Use when building or repositioning a brand — understanding what branding actually is (pairing, not aesthetics), measuring it, and executing the 4-step process to make an audience associate you with what they already love.
+description: Use when a business depends too heavily on the founder's face for advertising, when CAC is high compared to established players, or when building a new brand from scratch. Not for logo/visual design decisions.
 ---
 
 # Branding — Intentional Association

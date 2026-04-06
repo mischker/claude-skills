@@ -1,6 +1,6 @@
 ---
 name: fast-cash
-description: Use when a business needs to generate a large amount of revenue quickly from existing customers — running a high-ticket, limited-availability offer to warm audiences every 90 days. Includes the 7-day launch sequence and ultra-premium offer structure.
+description: Use when a business needs rapid revenue from existing customers, faces an unexpected cash need, or wants to unlock high-ticket spending from the 10% of customers who could pay 10x the current price. Distinct from long-term offer sequencing.
 ---
 
 # Fast Cash — Premium Offer to Warm Audience

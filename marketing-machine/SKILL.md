@@ -1,6 +1,6 @@
 ---
 name: marketing-machine
-description: Use when a business is too dependent on the founder's face for advertising, or when trying to build a system that produces customer-generated ad content continuously without extra effort — using what the business already does.
+description: Use when the founder is the bottleneck in ad creation, when running out of fresh ad creative, or when trying to make a business less keyman-dependent for its advertising. Requires an existing customer base.
 ---
 
 # Marketing Machine — Customer-Generated Ad System

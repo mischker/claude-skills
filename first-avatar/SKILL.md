@@ -1,6 +1,6 @@
 ---
 name: first-avatar
-description: Use when identifying or refining who the ideal customer is — finding the highest-value customer profile by analyzing existing data, then re-targeting acquisition and re-engineering the sales process around that profile.
+description: Use when a business has inconsistent lead quality, high churn from wrong-fit customers, or unclear who the ideal customer really is. Use before rewriting ads, restructuring the sales process, or deciding which customer segment to focus on.
 ---
 
 # First Avatar — Vista PE Method

@@ -1,6 +1,6 @@
 ---
 name: lead-nurture
-description: Use when trying to get more leads to respond, schedule, or show up to appointments — maximizing 30-day show rates through availability, speed, personalization, and volume. Covers the period between advertising and the sales call.
+description: Use when leads are opting in but not booking, or booking but not showing up to appointments. The gap between advertising and the sales conversation. Not for long-term email nurture or content strategy.
 ---
 
 # Lead Nurture — Maximize Show Rates

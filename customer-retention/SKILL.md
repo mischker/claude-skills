@@ -1,6 +1,6 @@
 ---
 name: customer-retention
-description: Use when reducing churn in a subscription or recurring business — finding activation points, improving onboarding, and implementing the systematic retention checklist. Covers both diagnosing why customers leave and fixing it.
+description: Use when a subscription or service business has high monthly churn, flat or declining revenue despite acquiring customers, or when LTV is low relative to CAC. Not for software/product retention (use pm-retention for that).
 ---
 
 # Customer Retention — Churn Reduction System

@@ -1,6 +1,6 @@
 ---
 name: hook-writing
-description: Use when writing the first few seconds/sentences of any ad, content piece, email, or outreach — the hook that stops people and makes them consume the rest. Includes verbal/nonverbal types, the 70-20-10 system, and how to build a hook library.
+description: Use when ad or content performance is low and the problem is in the first 3–5 seconds. When CTR is poor, content gets skipped, or outreach goes unread. Use before any recording or content production session to prepare hooks in advance.
 ---
 
 # Hook Writing — The First 5 Seconds

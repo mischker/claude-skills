@@ -1,6 +1,6 @@
 ---
 name: price-raise
-description: Use when a business needs to raise prices on existing customers — when and why to do it, how to pick the new price, the RAISE letter framework, and the rules for avoiding mistakes that lose customers unnecessarily.
+description: Use when prices haven't been raised in over a year, margins are thin, the cheapest customers are the most demanding, or when the business needs more profit without acquiring new customers.
 ---
 
 # Price Raise — How to Raise Prices Without Losing Customers

@@ -1,6 +1,6 @@
 ---
 name: sales-closing
-description: Use when a prospect has expressed interest but hasn't committed — the post-no conversation that gives people the power to decide by addressing the real obstacle (blame), not just the surface objection. Hormozi's closing framework.
+description: Use when prospects are stalling, giving vague objections, or when close rates are below target and salespeople don't know what to do after the first "no." Use alongside sales-objection-handler for specific scripts.
 ---
 
 # Sales Closing — Give People the Power to Decide

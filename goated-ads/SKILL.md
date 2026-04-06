@@ -1,6 +1,6 @@
 ---
 name: goated-ads
-description: Use when scaling paid advertising past the point where a single ad or small batch stops working — producing 150–750 ads per week using an assembly-line process and reaching progressively colder audiences by matching hook to awareness level.
+description: Use when paid ad CAC is rising, performance has plateaued despite budget, or when creative variety is exhausted. Use before a recording session when the goal is to produce a high volume of testable ads efficiently.
 ---
 
 # GOATed Ads — Ad Production at Scale
