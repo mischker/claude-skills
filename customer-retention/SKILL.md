@@ -116,3 +116,10 @@ Decide on 2–3 core things you deliver. Make them excellent. Delete the rest.
 | LTV impact of churn reduction | Gross profit per month ÷ churn | Improve 1 point = disproportionate LTV gain |
 
 Cutting churn from 10% to 3%: customer stays 10 months → 33 months. Same product, same price, 3.3x the revenue per customer.
+
+---
+
+## Related Skills
+
+- `pm-retention` — same retention principles applied to software/product context (activation, feature adoption, re-engagement)
+- `lifetime-value` — how churn feeds into LTGP calculation and which monetization lever to pull

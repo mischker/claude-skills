@@ -90,3 +90,10 @@ Gym Launch's top customers were: conservative married male gym owners, age 25–
 | Not updating your messaging after finding the avatar | The analysis means nothing if the ads still say "for everyone" |
 | Removing qualification steps to get more leads | More leads ≠ more money. Better-qualified leads = more money |
 | Running this once | Revisit every 6–12 months as your business evolves |
+
+---
+
+## Related Skills
+
+- `value-multiplier` — once you know your avatar, use this to maximize what each customer is worth
+- `pm-user-research` — research methodology for software/product context

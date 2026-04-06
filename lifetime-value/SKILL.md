@@ -114,3 +114,12 @@ Adding a single strong backend product that 1 in 5 customers buy at 50% of front
 | Raising price on new customers only | Test new prices on a cohort, then roll out to existing base |
 | Treating all customers the same | Your top 20% generates 80% of revenue. Find and serve them more |
 | Ignoring churn when calculating LTV | LTGP = gross profit / churn. Cutting churn from 9% to 3% = 3.3x LTV |
+
+---
+
+## Related Skills
+
+- `value-multiplier` — strategic lever hierarchy (pricing → LTV → perceived value → avatar); includes the 10×/1/10th test
+- `customer-retention` — the 5 Horsemen + Churn Checklist for reducing churn (lever 0: fix the bucket before filling it)
+- `price-raise` — step-by-step RAISE framework for raising prices on existing customers
+- `fast-cash` — 7-day and 5-day launch sequences to capture premium spending from existing customers

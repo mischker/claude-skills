@@ -134,3 +134,9 @@ After they say no (genuine no):
 | Treating all objections as price objections | Find the actual blame layer first |
 | Stopping at the first objection | Expect 3–4 layers. Keep peeling |
 | Making the close about you making a sale | Closing gives them the power to decide. You benefit either way |
+
+---
+
+## Related Skills
+
+- `sales-objection-handler` — specific word-for-word scripts for common objection types (price, timing, spouse approval, "need to think")

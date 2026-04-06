@@ -135,3 +135,10 @@ CTAs don't drive performance much. Don't over-engineer them.
 | Testing multiple changes at once | One variable per test per platform, per week |
 | Blaming market saturation | If you're under $10M/year, you haven't saturated anything |
 | Not tracking hook performance | Build a spreadsheet. Your hook library is a business asset |
+
+---
+
+## Related Skills
+
+- `hook-writing` — deep dive on hook structure, verbal/non-verbal types, and the 70-20-10 allocation system
+- `paid-ads` — platform selection, budget allocation, and CAC optimization for running the ads you create here

@@ -134,3 +134,10 @@ Start with the node that requires least new infrastructure:
 | Not getting consent | Add permissions to every customer contract; ask verbally at filming |
 | Capturing but not organizing | Content you can't find is content you can't use. Build a searchable library |
 | Implementing all 7 nodes at once | Pick 1, implement fully, then add the next |
+
+---
+
+## Related Skills
+
+- `goated-ads` — once you have raw customer content, use this to turn it into 150–750 testable ads/week
+- `affiliate-program` — external partner referral system that complements the in-house content machine

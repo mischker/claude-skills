@@ -141,3 +141,10 @@ As your ad spend scales, you need hooks for each awareness level to convert the 
 | Spending equal time on hook and body | Hook gets 80% of prep time. It decides everything |
 | Not building a hook library | Track every winner. Never start from scratch again |
 | Testing only one hook per piece of content | Record 10 hooks per ad. Most will lose. One will crush |
+
+---
+
+## Related Skills
+
+- `goated-ads` — assembly-line system that uses hook-writing as its first stage; 150–750 ads/week framework
+- `content-strategy` — applies hook principles to organic content across platforms
