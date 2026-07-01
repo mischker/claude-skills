@@ -48,3 +48,136 @@ test('toIsoDateTime: zero-pads single-digit hours for a valid ISO string', () =>
   assert.equal(toIsoDateTime('2026-07-06', '9:00'), '2026-07-06T09:00:00');
   assert.equal(toIsoDateTime('2026-07-06', '13:30'), '2026-07-06T13:30:00');
 });
+
+import { diffShifts } from './shift-sync.mjs';
+
+function markedEvent({ id, start, end, summary, description = MARKER, date = '2026-07-06' }) {
+  const pad = (n) => String(n).padStart(2, '0');
+  const [sh, sm] = start.split(':');
+  const [eh, em] = end.split(':');
+  return {
+    id,
+    summary,
+    description,
+    start: { dateTime: `${date}T${pad(sh)}:${sm}:00+02:00` },
+    end: { dateTime: `${date}T${pad(eh)}:${em}:00+02:00` },
+  };
+}
+
+test('diffShifts: no existing events -> everything is a create', () => {
+  const result = diffShifts({
+    existingEvents: [],
+    parsedShifts: [{ date: '2026-07-06', start: '13:30', end: '21:30' }],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toCreate.length, 1);
+  assert.equal(result.toCreate[0].summary, 'Monia Praca 13:30–21:30');
+  assert.equal(result.toCreate[0].startDateTime, '2026-07-06T13:30:00');
+  assert.equal(result.toCreate[0].reminderMinutes, 990);
+  assert.equal(result.toUpdate.length, 0);
+  assert.equal(result.toDelete.length, 0);
+});
+
+test('diffShifts: identical existing vs parsed -> no changes (idempotent)', () => {
+  const existingEvents = [markedEvent({ id: 'evt1', start: '13:30', end: '21:30', summary: 'Monia Praca 13:30–21:30' })];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [{ date: '2026-07-06', start: '13:30', end: '21:30' }],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toCreate.length, 0);
+  assert.equal(result.toUpdate.length, 0);
+  assert.equal(result.toDelete.length, 0);
+  assert.deepEqual(result.unchanged, ['2026-07-06']);
+});
+
+test('diffShifts: changed time -> single update, tagged and logged', () => {
+  const existingEvents = [markedEvent({ id: 'evt1', start: '9:00', end: '17:00', summary: 'Monia Praca 9:00–17:00' })];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [{ date: '2026-07-06', start: '13:30', end: '21:30' }],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toUpdate.length, 1);
+  const u = result.toUpdate[0];
+  assert.equal(u.id, 'evt1');
+  assert.equal(u.summary, 'Monia Praca 13:30–21:30 (updated)');
+  assert.equal(u.description, `${MARKER}\nUpdated 2026-07-01: was 9:00–17:00`);
+  assert.equal(u.reminderMinutes, 990);
+});
+
+test('diffShifts: second change to an already-updated shift keeps one tag, appends history', () => {
+  const existingEvents = [markedEvent({
+    id: 'evt1',
+    start: '13:30',
+    end: '21:30',
+    summary: 'Monia Praca 13:30–21:30 (updated)',
+    description: `${MARKER}\nUpdated 2026-07-01: was 9:00–17:00`,
+  })];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [{ date: '2026-07-06', start: '11:00', end: '19:00' }],
+    today: '2026-07-15',
+  });
+  assert.equal(result.toUpdate.length, 1);
+  const u = result.toUpdate[0];
+  assert.equal(u.summary, 'Monia Praca 11:00–19:00 (updated)');
+  assert.equal(
+    u.description,
+    `${MARKER}\nUpdated 2026-07-01: was 9:00–17:00\nUpdated 2026-07-15: was 13:30–21:30`
+  );
+});
+
+test('diffShifts: date no longer in parsed shifts -> delete', () => {
+  const existingEvents = [markedEvent({ id: 'evt1', start: '13:30', end: '21:30', summary: 'Monia Praca 13:30–21:30' })];
+  const result = diffShifts({ existingEvents, parsedShifts: [], today: '2026-07-01' });
+  assert.equal(result.toDelete.length, 1);
+  assert.equal(result.toDelete[0].id, 'evt1');
+  assert.equal(result.toDelete[0].previousStart, '13:30');
+});
+
+test('diffShifts: unmarked events on the shared calendar are ignored entirely', () => {
+  const existingEvents = [{
+    id: 'evt-family-dinner',
+    summary: 'Family dinner',
+    description: 'no marker here',
+    start: { dateTime: '2026-07-06T18:00:00+02:00' },
+    end: { dateTime: '2026-07-06T20:00:00+02:00' },
+  }];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [{ date: '2026-07-06', start: '13:30', end: '21:30' }],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toCreate.length, 1);
+  assert.equal(result.toDelete.length, 0);
+});
+
+test('diffShifts: unparsed date is skipped even if a marked event exists there', () => {
+  const existingEvents = [markedEvent({ id: 'evt1', start: '9:00', end: '17:00', summary: 'Monia Praca 9:00–17:00', date: '2026-07-15' })];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [],
+    unparsedDates: ['2026-07-15'],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toDelete.length, 0);
+  assert.equal(result.toUpdate.length, 0);
+  assert.deepEqual(result.skipped, ['2026-07-15']);
+});
+
+test('diffShifts: two marked events on the same date are flagged ambiguous, not auto-resolved', () => {
+  const existingEvents = [
+    markedEvent({ id: 'evt1', start: '9:00', end: '17:00', summary: 'Monia Praca 9:00–17:00' }),
+    markedEvent({ id: 'evt2', start: '9:00', end: '17:00', summary: 'Monia Praca 9:00–17:00' }),
+  ];
+  const result = diffShifts({
+    existingEvents,
+    parsedShifts: [{ date: '2026-07-06', start: '13:30', end: '21:30' }],
+    today: '2026-07-01',
+  });
+  assert.equal(result.toCreate.length, 0);
+  assert.equal(result.toUpdate.length, 0);
+  assert.equal(result.ambiguous.length, 1);
+  assert.deepEqual(result.ambiguous[0].eventIds.sort(), ['evt1', 'evt2']);
+});
